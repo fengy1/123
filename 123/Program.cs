@@ -11,6 +11,7 @@ namespace _123
         static void Main(string[] args)
         {
             Console.WriteLine("happy new year");
+            Console.WriteLine("1-1=0");
         }
     }
 }
