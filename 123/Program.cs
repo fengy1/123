@@ -13,6 +13,7 @@ namespace _123
             Console.WriteLine("happy new year");
             Console.WriteLine("1+1=");
             Console.WriteLine("hello world");
+            Console.WriteLine("1-1=0");
         }
     }
 }
